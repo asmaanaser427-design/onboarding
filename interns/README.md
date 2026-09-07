@@ -10,8 +10,8 @@ the right order, and remove the conflict markers.
 | --- | --- | --- |
 Sameer | Full Stack | iSamirTech
 Zaid | Cloud and DevOps | ZaidoGamerTech
-Mohamed | Backend | mohamed-azo
-Asmaa | Full Stack | Asmaa-naser
+Mohamed | Cloud & DevOps | mohamed-azo
+Asmaa | Backend & API | Asmaa-naser
  
 
 ## Adding your file
